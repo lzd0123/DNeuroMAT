@@ -1,2 +1,2 @@
-# DoMAT
-A Deep-Learning Based Neuron Microscopy Image Analysis Toolbox
+# DeNuroMAT
+A Deep-Learning Based Neuron Morphology Analysis Toolbox
