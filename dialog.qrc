@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/">
+    <file>src/pics/blueStone.png</file>
+    <file>src/pics/close.png</file>
+    <file>src/pics/close-white.png</file>
+    <file>src/pics/grayStone.png</file>
+    <file>src/pics/greenStone.png</file>
+    <file>src/pics/redStone.png</file>
+    <file>src/pics/down.png</file>
+    <file>src/pics/minus.png</file>
+    <file>src/pics/plus.png</file>
+    <file>src/pics/up.png</file>
+    <file>src/pics/down-128.png</file>
+    <file>src/pics/file-128.png</file>
+    <file>src/pics/standardbutton-apply-128.png</file>
+    <file>src/pics/standardbutton-cancel-128.png</file>
+    <file>src/pics/standardbutton-open-128.png</file>
+    <file>src/pics/up-128.png</file>
+    <file>src/pics/v3dIcon128.png</file>
+    <file>src/pics/edit.png</file>
+  </qresource>
+</RCC>

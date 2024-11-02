@@ -1,0 +1,10 @@
+^E:\VAA3D_PLUG\DNEUROMAT\CMAKELISTS.TXT
+setlocal
+D:\cmake-3.24.0-rc2-windows-x86_64\bin\cmake.exe -SE:/vaa3d_plug/DNeuroMAT -BE:/vaa3d_plug/DNeuroMAT/build --check-stamp-file E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

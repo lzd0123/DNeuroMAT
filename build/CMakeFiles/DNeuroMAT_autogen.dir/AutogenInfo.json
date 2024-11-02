@@ -1,0 +1,276 @@
+{
+	"BUILD_DIR" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen",
+	"CMAKE_BINARY_DIR" : "E:/vaa3d_plug/DNeuroMAT/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/vaa3d_plug/DNeuroMAT/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/vaa3d_plug/DNeuroMAT",
+	"CMAKE_EXECUTABLE" : "D:/cmake-3.24.0-rc2-windows-x86_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/vaa3d_plug/DNeuroMAT/CMakeLists.txt",
+		"E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/3.24.0-rc2/CMakeSystem.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake",
+		"E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/3.24.0-rc2/CMakeCXXCompiler.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Compiler/MSVC.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake",
+		"E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/3.24.0-rc2/CMakeRCCompiler.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/FindQt4.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CheckCXXSymbolExists.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CheckSymbolExists.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/MacroAddFileDependencies.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/FindPackageMessage.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/CMakePushCheckState.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Qt4ConfigDependentSettings.cmake",
+		"D:/cmake-3.24.0-rc2-windows-x86_64/share/cmake-3.24/Modules/Qt4Macros.cmake",
+		"E:/vaa3d_plug/DNeuroMAT/dialog.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/vaa3d_plug/DNeuroMAT",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtbuttonpropertybrowser.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtbuttonpropertybrowser.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qteditorfactory.h",
+			"MU",
+			"GG6V4AO3LO/moc_qteditorfactory.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtgroupboxpropertybrowser.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtgroupboxpropertybrowser.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowser.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtpropertybrowser.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowserutils_p.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtpropertybrowserutils_p.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertymanager.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtpropertymanager.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qttreepropertybrowser.h",
+			"MU",
+			"GG6V4AO3LO/moc_qttreepropertybrowser.cpp",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtvariantproperty.h",
+			"MU",
+			"GG6V4AO3LO/moc_qtvariantproperty.cpp",
+			null
+		],
+		[
+			"E:/Neure/v3d_external/v3d_main/basic_c_fun/basic_surf_objs.h",
+			"MU",
+			"GTEKPIIAGK/moc_basic_surf_objs.cpp",
+			null
+		],
+		[
+			"E:/Neure/v3d_external/v3d_main/basic_c_fun/v3d_message.h",
+			"MU",
+			"GTEKPIIAGK/moc_v3d_message.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/auto_show_result.h",
+			"MU",
+			"S5MZHKY2R4/moc_auto_show_result.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/dialog.h",
+			"MU",
+			"S5MZHKY2R4/moc_dialog.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/method_button.h",
+			"MU",
+			"S5MZHKY2R4/moc_method_button.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/neuron_analysor.h",
+			"MU",
+			"S5MZHKY2R4/moc_neuron_analysor.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/neuron_analysor_plugin.h",
+			"MU",
+			"S5MZHKY2R4/moc_neuron_analysor_plugin.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/parameter_button.h",
+			"MU",
+			"S5MZHKY2R4/moc_parameter_button.cpp",
+			null
+		],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/surf_objs.h",
+			"MU",
+			"S5MZHKY2R4/moc_surf_objs.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/include",
+	"INCLUDE_DIR_Debug" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "E:/vaa3d_plug/DNeuroMAT/build/DNeuroMAT_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"DNeuroMAT_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"WIN32"
+	],
+	"MOC_DEFINITIONS_Debug" : [ "DNeuroMAT_EXPORTS", "QT_CORE_LIB", "QT_GUI_LIB", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/vaa3d_plug/DNeuroMAT/src/cpp",
+		"E:/Neure/4.8.6/tools/shared/qtpropertybrowser",
+		"E:/Neure/v3d_external/v3d_main/basic_c_fun",
+		"E:/Neure/4.8.6/include",
+		"E:/Neure/4.8.6/include/QtCore",
+		"E:/Neure/4.8.6/mkspecs/default",
+		"E:/Neure/4.8.6/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "E:/Neure/4.8.6/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/Neure/4.8.6/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 4,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "E:/vaa3d_plug/DNeuroMAT/build/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtbuttonpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qteditorfactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtgroupboxpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowserutils.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtpropertymanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qttreepropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/4.8.6/tools/shared/qtpropertybrowser/qtvariantproperty.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/v3d_external/v3d_main/basic_c_fun/basic_surf_objs.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/Neure/v3d_external/v3d_main/basic_c_fun/v3d_message.cpp",
+			"MU",
+			null
+		],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/auto_show_result.cpp", "MU", null ],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/dialog.cpp", "MU", null ],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/method_button.cpp", "MU", null ],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/neuron_analysor.cpp", "MU", null ],
+		[
+			"E:/vaa3d_plug/DNeuroMAT/src/cpp/neuron_analysor_plugin.cpp",
+			"MU",
+			null
+		],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/parameter_button.cpp", "MU", null ],
+		[ "E:/vaa3d_plug/DNeuroMAT/src/cpp/surf_objs.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\build\DNeuroMAT_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\auto_show_result.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\method_button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\neuron_analysor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\neuron_analysor_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\parameter_button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\src\cpp\surf_objs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\v3d_external\v3d_main\basic_c_fun\v3d_message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\v3d_external\v3d_main\basic_c_fun\basic_surf_objs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtbuttonpropertybrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qteditorfactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtgroupboxpropertybrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtpropertybrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtpropertybrowserutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtpropertymanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qttreepropertybrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Neure\4.8.6\tools\shared\qtpropertybrowser\qtvariantproperty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\build\DNeuroMAT_autogen\EWIEGA46WW\qrc_dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\build\DNeuroMAT_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\build\DNeuroMAT_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\vaa3d_plug\DNeuroMAT\build\DNeuroMAT_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\vaa3d_plug\DNeuroMAT\build\CMakeFiles\e2a57e90271debd9fc3d2426c0c8961e\qrc_dialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\vaa3d_plug\DNeuroMAT\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\vaa3d_plug\DNeuroMAT\dialog.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{27D6F093-3797-394A-A25E-B40A9A48C66A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3AD9F64A-2C38-3F42-9853-935DADCE8DE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

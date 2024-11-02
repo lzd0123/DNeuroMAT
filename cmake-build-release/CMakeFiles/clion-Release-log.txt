@@ -1,0 +1,4 @@
+/home/lzd/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc-4.8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-4.8 -G "Unix Makefiles" -S /home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT -B /home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release

@@ -1,0 +1,274 @@
+{
+	"BUILD_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/DNeuroMAT_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT",
+	"CMAKE_EXECUTABLE" : "/home/lzd/cmake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/CMakeLists.txt",
+		"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/CMakeFiles/3.23.0-rc1/CMakeSystem.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/CMakeFiles/3.23.0-rc1/CMakeCXXCompiler.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Platform/Linux.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Platform/UnixPaths.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Compiler/GNU.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Platform/Linux-GNU.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/FindQt4.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CheckCXXSymbolExists.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CheckSymbolExists.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/MacroAddFileDependencies.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/FindPackageMessage.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/CMakePushCheckState.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Qt4ConfigDependentSettings.cmake",
+		"/home/lzd/cmake/share/cmake-3.23/Modules/Qt4Macros.cmake",
+		"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/dialog.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/lzd/V3D/v3d_external/v3d_main/basic_c_fun/basic_surf_objs.h",
+			"MU",
+			"QGWMVFWPPG/moc_basic_surf_objs.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/v3d_external/v3d_main/basic_c_fun/v3d_message.h",
+			"MU",
+			"QGWMVFWPPG/moc_v3d_message.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/auto_show_result.h",
+			"MU",
+			"S5MZHKY2R4/moc_auto_show_result.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/dialog.h",
+			"MU",
+			"S5MZHKY2R4/moc_dialog.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/method_button.h",
+			"MU",
+			"S5MZHKY2R4/moc_method_button.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/neuron_analysor.h",
+			"MU",
+			"S5MZHKY2R4/moc_neuron_analysor.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/neuron_analysor_plugin.h",
+			"MU",
+			"S5MZHKY2R4/moc_neuron_analysor_plugin.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/parameter_button.h",
+			"MU",
+			"S5MZHKY2R4/moc_parameter_button.cpp",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/surf_objs.h",
+			"MU",
+			"S5MZHKY2R4/moc_surf_objs.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtbuttonpropertybrowser.h",
+			"MU",
+			"3S367TSHMF/moc_qtbuttonpropertybrowser.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qteditorfactory.h",
+			"MU",
+			"3S367TSHMF/moc_qteditorfactory.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtgroupboxpropertybrowser.h",
+			"MU",
+			"3S367TSHMF/moc_qtgroupboxpropertybrowser.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowser.h",
+			"MU",
+			"3S367TSHMF/moc_qtpropertybrowser.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowserutils_p.h",
+			"MU",
+			"3S367TSHMF/moc_qtpropertybrowserutils_p.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertymanager.h",
+			"MU",
+			"3S367TSHMF/moc_qtpropertymanager.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qttreepropertybrowser.h",
+			"MU",
+			"3S367TSHMF/moc_qttreepropertybrowser.cpp",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtvariantproperty.h",
+			"MU",
+			"3S367TSHMF/moc_qtvariantproperty.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/DNeuroMAT_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/DNeuroMAT_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "DNeuroMAT_EXPORTS", "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp",
+		"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser",
+		"/home/lzd/V3D/v3d_external/v3d_main/basic_c_fun",
+		"/usr/local/Trolltech/Qt-4.8.6/include",
+		"/usr/local/Trolltech/Qt-4.8.6/include/QtCore",
+		"/usr/local/Trolltech/Qt-4.8.6/mkspecs/default",
+		"/usr/local/Trolltech/Qt-4.8.6/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/CMakeFiles/DNeuroMAT_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/Trolltech/Qt-4.8.6/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/local/Trolltech/Qt-4.8.6/bin/uic",
+	"QT_VERSION_MAJOR" : 4,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/cmake-build-release/CMakeFiles/DNeuroMAT_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/lzd/V3D/v3d_external/v3d_main/basic_c_fun/basic_surf_objs.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/v3d_external/v3d_main/basic_c_fun/v3d_message.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/auto_show_result.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/dialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/method_button.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/neuron_analysor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/neuron_analysor_plugin.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/parameter_button.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/lzd/V3D/vaa3d_tools/released_plugins/v3d_plugins/DNeuroMAT/src/cpp/surf_objs.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtbuttonpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qteditorfactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtgroupboxpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertybrowserutils.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtpropertymanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qttreepropertybrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/usr/local/Trolltech/Qt-4.8.6/tools/shared/qtpropertybrowser/qtvariantproperty.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
