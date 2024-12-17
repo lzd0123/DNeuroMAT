@@ -1,0 +1,12 @@
+Method: SPE-Net
+Ma: 64
+Mp: 64
+N: 20
+SphereRadiiStep: 1
+Branch: 1
+Termination: 1
+Cross-over: 1
+Z-ResampleRate: 1
+GammaCorrection: 0.454
+SaveSegmentation: 1
+SaveSeed: 1

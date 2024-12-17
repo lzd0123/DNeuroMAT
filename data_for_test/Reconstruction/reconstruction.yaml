@@ -1,0 +1,15 @@
+Method: SPE-DNR
+Ma: 32
+Mp: 32
+Md: 32
+N: 10
+SphereRadiiStep: 1
+JointDecision: 1
+Lambda: 4
+AngleThreshold: 1.047
+MaxIteration: 100
+StepSize: 1
+Z-ResampleRate: 1
+GammaCorrection: 0.454
+SaveSegmentation: 1
+SaveSeed: 1
